@@ -1,6 +1,6 @@
 # NovaField Operations Portal & Real-Time Dispatch Engine
 
-![NovaField Operations Architecture](Fields_service_operations_Softr_Airtable.jpg)
+![NovaField Operations Architecture](https://raw.githubusercontent.com/mohsin1782005/field-service-dispatch-engine-softr-airtable/main/Fields_service_operations_Softr_Airtable.jpg)
 
 [![System Architecture: Production](https://img.shields.io/badge/Architecture-Enterprise_B2B-blue.svg)](#system-architecture)
 [![Database: Airtable Relational Base](https://img.shields.io/badge/Database-Airtable_Relational-18BFFF.svg)](#relational-database-schema)
